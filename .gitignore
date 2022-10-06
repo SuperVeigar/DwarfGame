@@ -1,0 +1,11 @@
+/Library/
+/Logs/
+/obj/
+/Packages/
+/ProjectSettings/
+/UserSettings/
+*.vsconfig
+*.sln
+*.csproj
+*.meta
+*.png

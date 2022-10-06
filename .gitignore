@@ -4,6 +4,9 @@
 /Packages/
 /ProjectSettings/
 /UserSettings/
+/_TerrainAutoUpgrade/
+/01_Scenes/
+/02_Scripts/
 *.vsconfig
 *.sln
 *.csproj
